@@ -10,6 +10,9 @@ var obj = {
 }
 
 var connection = mysql.createConnection(obj);
+connection.on('error', function (err) {
+    console.log('caught this error: ' + err.toString());
+});
 
 
 
