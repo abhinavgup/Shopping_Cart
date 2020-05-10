@@ -6,7 +6,8 @@ var obj = {
     host     : 'localhost',
     user     : 'root',
     password : '29233576',
-    database : 'cart'
+    database : 'cart',
+    port     : 'process.env.port || 3000;'
 }
 
 var connection = mysql.createConnection(obj);
