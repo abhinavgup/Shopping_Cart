@@ -1,0 +1,74 @@
+.jumbtron{
+    height:30px;
+    width:50px;
+
+    
+}
+
+.pas{
+    position: relative;
+    top:130px;
+}
+
+div {
+    width:330px;
+    height: 300px;
+    border-radius: 4px;
+    border: 1px #ddd solid;
+    background-color: #fff;
+    position: relative;
+    top:100px;
+    left:460px;
+  }
+
+  #us{
+    position: relative;
+    top:3px;
+    left:20px;
+    width:230px;
+
+
+  }
+
+  #pas{
+    position: relative;
+    top:3px;
+    width:330px;
+
+  }
+
+  #pa{
+    position: relative;
+    top:20px;
+    font-size: 15px;
+    left:20px;
+    color: black;
+
+  }
+
+  p{
+
+    position: relative;
+    left:20px;
+    top:14px;
+    font-size: 25px;
+
+  }
+
+  #submit{
+
+    position: relative;
+    top:80px;
+    left:-120px;
+  }
+
+  #nam{
+    font-size: 15px;
+    color: black;
+  }
+
+  #pas{
+    font-size: 15px;
+    left:20px;
+    width:230px;
+  }

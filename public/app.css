@@ -1,0 +1,234 @@
+.mr-auto{
+    position: relative;
+    left:800px;
+}
+
+.navbar-brand{
+
+    position: relative;
+    left:80px;
+    color:white;
+}
+
+.svg-inline--fa{
+   width:35px;   
+   position: relative;
+   left:-10px;
+}
+
+section{
+   background-image: url("https://websitedemos.net/plant-store-02/wp-content/uploads/sites/410/2019/01/bg3-free-img.jpg");
+  
+   min-height: 620px;
+   /* width:100%; */
+   background-color: transparent;
+   /* background-image: linear-gradient(180deg, rgba(0,0,0,0.5) 0%, #000000 60%);
+   opacity: 0.5; */
+  background-position: center center;
+    background-size: cover;
+    
+   
+}
+.bg-img{
+    background-color: #011019;
+    opacity: 0.58;
+    height: 620px;
+} 
+
+  
+
+   
+#na{
+    background-color: rgba(0,0,0,0.2);
+    color: white;
+    height: 85px;
+    /* filter: brightness(300%); */
+    position: absolute;
+    left: 0;
+    right: 0;
+    border-bottom-width: 1px;
+    border-bottom-color: #eaeaea;
+    /* border-bottom-style: solid; */
+    z-index: 99;
+}
+
+/* @media (min-width: 1200px) {
+    .container{
+        max-width: 970px;
+    }
+} */
+
+.nav-link{
+    color: white;
+    
+
+}
+
+.nav-link:hover,.navbar-brand:hover{
+    color: green;
+}
+
+#a{
+    color: beige;
+}
+
+#leaf{
+    width:150px;
+    position: relative;
+    left:570px;
+    top:120px;
+}
+
+
+h5{
+ 
+    position: relative;
+    left:530px;
+    top:170px;
+    color: white;
+    /* opacity:1; */
+    z-index: 99;
+    word-spacing: 8px;
+    font-family: 'Lato', sans-serif;
+    /* font-family: 'Quicksand',sans-serif;
+    /* font-weight: 500; */ 
+}
+
+#p1{
+
+    position: relative;
+    left:320px;
+    top:200px;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 60px;
+    word-spacing: 4px;
+    font-family: 'Lato', sans-serif;
+    filter: brightness(300%); 
+}
+
+#p2{
+
+
+    position: relative;
+    left:420px;
+    top:160px;
+    color: white;
+    font-weight: 500;
+    font-size: 60px;
+    word-spacing: 4px;
+    font-family: 'Lato', sans-serif;
+    filter: brightness(300%); 
+}
+
+.button{
+
+    position: relative;
+    left:560px;
+    top:210px;
+    border-radius: 30px;
+    padding:10px 15px 10px 15px;
+    width:180px;
+    background-color: greenyellow;
+    color:black;
+    border:solid;
+    border-color: greenyellow;
+}
+
+#heading h1{
+
+    position: relative;
+    top:220px;
+    /* left:500px; */
+    color: #4e5768;
+    text-align: center;
+
+}
+
+
+.im{
+    width: 100%;
+}
+
+#new{
+    position: relative;
+    top:150px;   
+}
+
+#heading{
+
+    position: relative;
+    top:-250px;
+}
+
+#row1{
+     position: relative;
+    top:290x; 
+}
+
+
+#row2{
+    position: relative;
+    top:120px;
+    /* left:10px;   */
+ 
+} 
+
+#row3{
+    position: relative;
+    top:190px;
+    /* left:10px;   */
+}
+
+.type,h6{
+
+    position: relative;
+    top:10px;
+}
+        
+
+.price{
+
+    position: relative;
+    top:8px;
+}
+#info1{
+    text-align: center;
+}
+
+/* #row2{
+
+    position: relative;
+    top:700px;
+    
+} */
+
+
+
+.add-to-cart{
+
+    background-color: greenyellow;
+    
+}
+
+.add-to-cart{
+
+    background-color: greenyellow;
+
+}
+
+
+.btn-outline-success{
+
+    position: relative;
+    left:10px;
+    top:10px;
+
+}
+
+#b{
+
+    position: relative;
+    top:3px;
+}
+
