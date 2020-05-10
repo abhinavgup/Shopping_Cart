@@ -3,7 +3,7 @@ var mysql = require('mysql');
 
 
 var obj = {
-    host     : 'localhost',
+    host     : '127.0.0.1',
     user     : 'root',
     password : '29233576',
     database : 'cart',
