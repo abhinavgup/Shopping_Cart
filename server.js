@@ -93,7 +93,7 @@ app.get('/logout', function(req, res){
 });
 
 
-var port= 7000;
+var port = process.env.port || 3000;
 
 // app.use(express.json())
 // app.use(express.urlencoded({extended: true}))
